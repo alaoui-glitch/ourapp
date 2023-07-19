@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="definition_not_found">Definition not found</string>
+</resources>
